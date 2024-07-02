@@ -42,3 +42,35 @@ between traditional computer vision methods and deep learning models, taking int
 the specific requirements and constraints of their applications. As this technology continues 
 to evolve, advancements in both approaches are expected to play a pivotal role in public 
 health and safety measures [6].
+
+
+1.2 Problem Statement
+The face mask detection task involves developing a computer vision system capable of 
+accurately identifying whether individuals in images or videos are wearing face masks. This 
+task has gained significant importance due to the ongoing COVID-19 pandemic, where face 
+masks serve as a crucial preventive measure to mitigate the transmission of the virus [1].
+The primary objective of this research is to create an efficient and reliable face mask 
+detection model that can be deployed in real-world scenarios. The model should be capable 
+of detecting face masks with high accuracy and robustness, even in challenging environments 
+with variations in mask types, lighting conditions, partial face visibility, and the presence of 
+other facial coverings such as Naqab, Sunglasses.
+To achieve this goal, the research will explore and compare different approaches for face 
+mask detection, including traditional computer vision techniques, such as edge detection and 
+facial landmark detection, and deep learning methods using convolutional neural networks. 
+The study will evaluate the performance and computational costs of each approach to 
+determine the most suitable method for the specific application.
+Page | 2
+Furthermore, the research aims to address the following key challenges in face mask 
+detection:
+Variability in Mask Types: Different face mask types, such as surgical masks, N95 
+respirators, and cloth masks, may introduce variations in appearance, requiring the model to 
+adapt accordingly.
+Occlusion and Partial Face Visibility: The presence of obstructions or partial visibility of 
+facial features can pose challenges in accurately detecting face masks, especially when 
+individuals wear additional facial coverings like Naqab.
+Real-time Implementation: The model should be optimized for real-time processing to 
+facilitate its deployment in public spaces, workplaces, and surveillance systems.
+The proposed face mask detection system has potential applications in various domains, 
+including public health, safety, and compliance monitoring. By accurately identifying face 
+masks in images and videos, the system can contribute to efforts aimed at controlling the 
+spread of infectious diseases and ensuring adherence to safety protocols [2, 3
