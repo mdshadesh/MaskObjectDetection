@@ -1,0 +1,18 @@
+Face mask typically refers to a covering that is worn over the nose and mouth to provide 
+protection from airborne particles and potentially harmful substances. The primary purpose of 
+a face mask is to reduce the transmission of respiratory droplets that may contain viruses, 
+bacteria, or other contaminants, especially in situations where maintaining physical distance 
+is important. Computer Vision can help to monitor the use of face masks based on images
+captured via CCTV. A previous study built a mask detection system using Convolutional 
+Neural Networks (CNN) based models, which produced high accuracy but was limited to the 
+front face. This research focuses on leveraging computer vision and machine learning, Deep 
+learning techniques for accurate face mask detection. The proposed approach employs 
+transfer learning, utilizing MobileNetV2 as the base model, coupled with a custom classifier. 
+This model consists of two core components: face detection (faceNet) and face mask 
+classification (maskNet), following established machine learning and deep learning 
+workflows. Experimental results underscore its effectiveness, achieving a remarkable 97.87% 
+accuracy in identifying individuals wearing masks, 98.46% accuracy in detecting those 
+without masks, culminating in an impressive overall model accuracy of 98.33%. In addition 
+to its primary role in monitoring mask compliance, this research highlights its potential to 
+make meaningful contributions to technological progress and endeavors aimed at enhancing 
+public health
