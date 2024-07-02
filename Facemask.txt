@@ -111,3 +111,24 @@ improvement in face mask detection technology. Future directions may include
 exploring multi-modal approaches, refining the model's performance under 
 challenging conditions, and addressing any biases that may arise in the system [8].
 
+
+2 Artificial Intelligence Applications
+Artificial intelligence (AI) is rapidly transforming the healthcare industry, and intensive care 
+units (ICUs) are no exception. AI-powered technologies are being used to improve patient 
+care, reduce costs, and streamline operations.
+Here are some of the ways AI is being used in ICUs:
+● Predicting patient outcomes: AI can be used to analyze large amounts of data to 
+predict patient outcomes, such as the risk of death or infection. This information can 
+be used to make better decisions about patient care, such as when to transfer a patient 
+to a different unit or when to start end-of-life care [5].
+● Automating tasks: AI can be used to automate tasks that are currently performed by 
+nurses and doctors, such as monitoring patient vital signs and administering 
+medications. This can free up staff time to focus on other tasks, such as providing 
+direct patient care [5].Personalizing treatment: AI can be used to personalize 
+treatment for each patient. For example, AI can be used to recommend the best 
+medications for a patient's condition or to develop a personalized exercise plan [4].
+Page | 9
+● Improving communication: AI can be used to improve communication between 
+healthcare providers and patients. For example, AI-powered chatbots can answer 
+patients' questions and provide support [6]
+
