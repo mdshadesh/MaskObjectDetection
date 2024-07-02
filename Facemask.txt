@@ -16,3 +16,29 @@ without masks, culminating in an impressive overall model accuracy of 98.33%. In
 to its primary role in monitoring mask compliance, this research highlights its potential to 
 make meaningful contributions to technological progress and endeavors aimed at enhancing 
 public health
+
+
+
+1.1 Background
+Face mask detection has emerged as a significant computer vision task, aimed at determining 
+whether an individual in an image or video is wearing a face mask. This task has gained 
+immense importance in recent times, particularly during the COVID-19 pandemic, where 
+face masks have been proven to be effective in curbing the spread of the virus [1].
+Several approaches are employed for face mask detection, each with its own set of 
+methodologies. One traditional approach involves utilizing computer vision techniques like 
+edge detection and facial landmark detection. By identifying facial features such as eyes, 
+nose, and mouth, this method can subsequently determine whether a person is wearing a face 
+mask [3].
+In contrast, deep learning presents another approach to face mask detection. Deep learning 
+leverages artificial neural networks to learn patterns from vast datasets containing images of 
+people both with and without face masks. Once the model is trained on such data, it can 
+effectively detect the presence of face masks in new images [3].
+Comparing the two approaches, deep learning models have demonstrated higher accuracy 
+when compared to traditional computer vision techniques for face mask detection. However, 
+it is important to consider that deep learning models may demand more computational 
+resources for training and deployment, making them computationally expensive.
+To build an efficient face mask detection system, researchers must consider the trade-offs 
+between traditional computer vision methods and deep learning models, taking into account 
+the specific requirements and constraints of their applications. As this technology continues 
+to evolve, advancements in both approaches are expected to play a pivotal role in public 
+health and safety measures [6].
